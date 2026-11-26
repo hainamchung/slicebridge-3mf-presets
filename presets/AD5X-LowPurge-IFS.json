@@ -1,0 +1,8 @@
+{
+  "wall_loops": "3",
+  "sparse_infill_density": "12%",
+  "sparse_infill_pattern": "gyroid",
+  "flush_into_infill": "1",
+  "outer_wall_speed": "160",
+  "enable_prime_tower": "1"
+}
