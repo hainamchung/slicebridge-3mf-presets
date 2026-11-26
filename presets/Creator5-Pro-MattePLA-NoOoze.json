@@ -1,0 +1,9 @@
+{
+  "prime_tower_brim_width": "3",
+  "wall_loops": "3",
+  "sparse_infill_density": "15%",
+  "sparse_infill_pattern": "gyroid",
+  "outer_wall_speed": "140",
+  "inner_wall_speed": "220",
+  "enable_prime_tower": "1"
+}
